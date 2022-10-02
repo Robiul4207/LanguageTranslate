@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86575954746",
+    "project_id": "language-translate-dc2f0",
+    "storage_bucket": "language-translate-dc2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86575954746:android:f3c12a2510032b35006e03",
+        "android_client_info": {
+          "package_name": "com.robiultech.languagetranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86575954746-e64vdtvb5ptagn0tmm52qaconfii6751.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq2t7zQ4DdjBcB4B1lT04ba6qoW6GNrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86575954746-e64vdtvb5ptagn0tmm52qaconfii6751.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
